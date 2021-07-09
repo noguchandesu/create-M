@@ -6,7 +6,7 @@ $num = null;
 
 
 
-//オペランドを入力
+//オペランドを入力 テストコミット
 if(isset($_POST['operand'])){
   $operand = $_POST['operand'];
 }
